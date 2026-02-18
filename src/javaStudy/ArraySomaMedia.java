@@ -42,7 +42,8 @@ public class ArrayVetor2 {
 		
 		System.out.println("a soma desses numeros é igual a: " + mais);
 		System.out.println("a média desses numeros é igual a: " + Media);	
-							
+
+		entrada.close();
 	}
 
 }
