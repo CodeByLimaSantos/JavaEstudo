@@ -1,1 +1,1 @@
-Every code on this repository has an application that builds a great knowledge on progamming logics.
+Every code on this repository has an application of progamming logics in java Sintaxe.
