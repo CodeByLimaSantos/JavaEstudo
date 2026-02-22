@@ -1,2 +1,2 @@
 # JavaEstudo
-Here i'll update and store all of my Java project's.
+In this repository, I will store and display all my programming logic projects applied to Java.
